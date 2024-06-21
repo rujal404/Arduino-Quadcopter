@@ -1,0 +1,9 @@
+*.swp
+*.pdb
+*.so
+*.o
+/.pioenvs/*
+/.pio/*
+/.vscode/*
+
+
